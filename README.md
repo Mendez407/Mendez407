@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Mendez407</h1>
-<h3 align="center">Estoy en camino de ser una programadora, algo que mr apasiona, el innovar es algo que me gusta por lo que en la programacion puedo darme el lujo de intentar cosas nuevas</h3> - 📫 Cómo contactarme **morenomendez407@gmail.com** - ⚡ Dato curioso **tambien soy conocido como "LA LIDER"** <h3 align="left">Conéctate conmigo:</h3> <p align="left"> </p> <h3 align="left"
+<h3 align="center">Estoy en camino de ser una programadora, algo que me apasiona, el innovar es algo que me gusta por lo que en la programacion puedo darme el lujo de intentar cosas nuevas</h3> - 📫 Cómo contactarme **morenomendez407@gmail.com** - ⚡ Dato curioso **tambien soy conocido como "LA LIDER"** <h3 align="left">Conéctate conmigo:</h3> <p align="left"> </p> <h3 align="left"
 
 >
 
