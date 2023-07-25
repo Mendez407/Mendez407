@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Mendez407</h1>
-<h3 align="center">ando metida en esto👩‍💻me gusta comer,mi pasatiempo es estar🛌,si me van a invitar a salir que sea a 🍱🍝🍗🍖🥗🌮🥪,muchas gracias por la molestia de venir a chismosiar este humilde lugar</h3> - 📫 Cómo contactarme **morenomendez407@gmail.com** - ⚡ Dato curioso **tambien soy conocido como "LA LIDER"** <h3 align="left">Conéctate conmigo:</h3> <p align="left"> </p> <h3 align="left"
+<h3 align="center">ando metida en esto👩‍💻</h3> - 📫 Cómo contactarme **morenomendez407@gmail.com** - ⚡ Dato curioso **tambien soy conocido como "LA LIDER"** <h3 align="left">Conéctate conmigo:</h3> <p align="left"> </p> <h3 align="left"
 
 >
 
